@@ -1,0 +1,19 @@
+.informacoes {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    column-gap: 40px;
+    padding: 4em 6em;
+}
+
+.informacoes__atributos-quantidade {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.informacoes__atributos-titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    padding: 1em 0;
+}
