@@ -1,12 +1,13 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/section-informacoes.css");
+@import url("styles/section-vagas.css");
 
 :root {
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --cor-rodape: #F9FAFB;
-    --rosa-claro: #fbcdcd;
+    --rosa-claro: #f7ebeb;
     --cinza: #667085;
     --cor-titulo: #101828;
     --fonte-principal: "Inter";

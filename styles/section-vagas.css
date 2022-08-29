@@ -1,0 +1,35 @@
+.vagas {
+    padding: 8em 0;
+    text-align: center;
+}
+
+.vagas__apresentacao-titulo {
+    display: inline-block;
+    color: var(--vermelho);
+    font-weight: 500;
+    font-size: 14px;
+    background-color: var(--rosa-claro);
+    padding: 0.5em 0;
+    width: 10%;
+    margin-inline: auto;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.vagas__apresentacao-convocacao {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-titulo);
+    padding: 1em 0;
+}
+
+.vagas__apresentacao-texto {
+    font-size: 20px;
+    margin-bottom: 3em;
+}
+
+.vagas__apresentacao-imagem {
+    width: 90vw;
+    justify-content: center;
+}
+
