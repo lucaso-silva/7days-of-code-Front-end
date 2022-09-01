@@ -1,9 +1,9 @@
-.vagas {
+.equipe {
     padding: 8em 0;
     text-align: center;
 }
 
-.vagas__apresentacao-titulo {
+.equipe__apresentacao-titulo {
     display: inline-block;
     color: var(--vermelho);
     font-weight: 500;
@@ -16,20 +16,49 @@
     border-radius: 20px;
 }
 
-.vagas__apresentacao-convocacao {
+.equipe__apresentacao-convocacao {
     font-size: 36px;
     font-weight: 600;
     color: var(--cor-titulo);
     padding: 1em 0;
 }
 
-.vagas__apresentacao-texto {
+.equipe__apresentacao-texto {
     font-size: 20px;
     margin-bottom: 3em;
 }
 
-.vagas__apresentacao-imagem {
-    width: 90vw;
+.vagas__area {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    padding: 1em 0;
+    margin: 2.5em auto 1em 12em;
+    text-align: start;
+}
+
+.vagas__oportunidades {
+    padding: 1em 5em 1em 2em;
+    border: 0.05em solid var(--cinza-claro);
+    border-radius: 10px;
+    margin: 1em auto;
+    width: 55%;
     justify-content: center;
+}
+
+.vagas__oportunidades-titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    padding: 0.5em 0 1.5em 0;
+    text-align: start;
+}
+
+.vagas__informacoes {
+    display: flex;
+}
+
+.vagas__oportunidades-informacoes-salario {
+    padding-left: 1.2em;
 }
 
