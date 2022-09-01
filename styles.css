@@ -2,12 +2,13 @@
 @import url("styles/banner.css");
 @import url("styles/section-informacoes.css");
 @import url("styles/section-vagas.css");
+@import url(styles/section-opinioes.css);
 
 :root {
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --cor-rodape: #F9FAFB;
-    --rosa-claro: #f7ebeb;
+    --rosa-claro: #fcefef;
     --cinza: #667085;
     --cinza-claro: #EAECF0;
     --cor-titulo: #101828;
