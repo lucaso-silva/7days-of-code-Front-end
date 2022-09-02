@@ -35,6 +35,10 @@
     margin-left: 0.5rem;
 }
 
+.rodape__botao:hover {
+    cursor: pointer;
+}
+
 .rodape__email::placeholder {
     padding-left: 10em;
 }
