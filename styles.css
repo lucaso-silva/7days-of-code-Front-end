@@ -2,7 +2,8 @@
 @import url("styles/banner.css");
 @import url("styles/section-informacoes.css");
 @import url("styles/section-vagas.css");
-@import url(styles/section-opinioes.css);
+@import url("styles/section-opinioes.css");
+@import url("styles/footer.css");
 
 :root {
     --branco: #FFFFFF;
